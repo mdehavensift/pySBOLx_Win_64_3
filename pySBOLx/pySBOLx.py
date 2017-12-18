@@ -1,5 +1,6 @@
 import rdflib
 from sbol import *
+from sbol.libsbol import *
 
 SD2_NS = 'http://sd2e.org#'
 
